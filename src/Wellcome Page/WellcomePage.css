@@ -1,0 +1,18 @@
+.WellcomePage {
+   display: block;
+   
+ 
+}
+.WellcomePage a {
+   display: inline-block;
+   padding: 30px 15px;   
+   color: #222;
+   text-decoration: none;
+
+}
+.WellcomePage h2 {
+   margin-left: 15px;
+}
+.WellcomePage p {
+   margin-left: 15px;
+}

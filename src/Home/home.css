@@ -1,0 +1,13 @@
+.homePage h2 {
+   color: #222;
+   text-align: center;
+}
+.homePage p {
+   color: #222;
+   text-align: center;
+}
+.homePage .btnWrapper {
+
+   display: flex;
+   justify-content: center;
+}
